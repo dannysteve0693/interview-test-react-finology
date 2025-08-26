@@ -35,8 +35,7 @@ src/
  ├── types/         # TypeScript interfaces  
  ├── App.tsx        # Root component  
  ├── index.css      # CSS File for Tailwind  
- ├── main.tsx       # Entry point  
- └── vite-env.d.ts  # Vite type definitions  
+ └── main.tsx       # Entry point  
 
 ---
 
@@ -94,7 +93,7 @@ src/
 ## Screenshots (Optional)
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/homepage.png)
 
 
 ---
